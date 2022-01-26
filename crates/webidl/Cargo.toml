@@ -14,7 +14,7 @@ edition = "2018"
 
 [dependencies]
 env_logger = "0.8.1"
-anyhow = "1.0"
+anyhow = "1.0.51"
 heck = "0.3"
 log = "0.4.1"
 proc-macro2 = "1.0"

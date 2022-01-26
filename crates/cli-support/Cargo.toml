@@ -12,7 +12,7 @@ Shared support for the wasm-bindgen-cli package, an internal dependency
 edition = '2018'
 
 [dependencies]
-anyhow = "1.0"
+anyhow = "1.0.51"
 base64 = "0.9"
 log = "0.4"
 rustc-demangle = "0.1.13"

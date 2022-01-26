@@ -18,7 +18,7 @@ default-run = 'wasm-bindgen'
 curl = "0.4.13"
 docopt = "1.0"
 env_logger = "0.8"
-anyhow = "1.0"
+anyhow = "1.0.51"
 log = "0.4"
 openssl = { version = '0.10.11', optional = true }
 rouille = { version = "3.0.0", default-features = false }
